@@ -332,7 +332,7 @@ html {
 
 @keyframes css {
     0% {width: 0;}
-    100% {width: 75%;}
+    100% {width: 65%;}
 }
 
 .skills .skill .javascript {
@@ -342,7 +342,7 @@ html {
 
 @keyframes javascript {
     0% {width: 0;}
-    100% {width: 75%;}
+    100% {width: 55%;}
 }
 
 .skills .skill .python {
@@ -362,7 +362,7 @@ html {
 
 @keyframes flask {
     0% {width: 0;}
-    100% {width: 75%;}
+    100% {width: 35%;}
 }
 
 .skills .skill .mysql {
@@ -372,7 +372,7 @@ html {
 
 @keyframes mysql {
     0% {width: 0;}
-    100% {width: 75%;}
+    100% {width: 45%;}
 }
 
 .skills .skill .trabajo {
@@ -382,7 +382,7 @@ html {
 
 @keyframes trabajo {
     0% {width: 0;}
-    100% {width: 75%;}
+    100% {width: 80%;}
 }
 
 .skills .skill .comunicacion {
@@ -392,7 +392,7 @@ html {
 
 @keyframes comunicacion {
     0% {width: 0;}
-    100% {width: 75%;}
+    100% {width: 80%;}
 }
 
 .skills .skill .resolucion {
@@ -412,7 +412,7 @@ html {
 
 @keyframes adaptabilidad {
     0% {width: 0;}
-    100% {width: 75%;}
+    100% {width: 80%;}
 }
 
 .skills .skill .creatividad {
@@ -432,7 +432,7 @@ html {
 
 @keyframes pensamiento {
     0% {width: 0;}
-    100% {width: 75%;}
+    100% {width: 80%;}
 }
 
 /* SECTION CURRICULUM */
